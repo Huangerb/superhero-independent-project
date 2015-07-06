@@ -19,7 +19,18 @@ p {
 
 
 
+#navbar {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 400px;
+    text-align: center;
+}
 
+.navlink {
+    display: inline;
+
+}
 
 
 
