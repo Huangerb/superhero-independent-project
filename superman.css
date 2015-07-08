@@ -117,3 +117,15 @@ body {
     border-collapse: collapse;
     padding: 3px;
 }
+
+.navlink:hover {
+    background-color: lightgreen;
+}
+
+.navtext {
+    color: gray;
+}
+
+.navtext:hover {
+    color: darkgray;
+}

@@ -59,10 +59,18 @@ p {
     border-width: 1px;
     border-collapse: collapse;
     padding: 3px;
-    position: fixed;
+    width: 160px;
 }
 
 .navlink:hover {
-    background-color: green;
-    color: red;
+    background-color: lightgreen;
+}
+
+.navtext {
+    color: gray;
+    width: 40px;
+}
+
+.navtext:hover {
+    color: darkgray;
 }
