@@ -1,0 +1,38 @@
+body {
+    background-image: url("background.png");
+}
+
+.navlink {
+    display: inline;
+    background-color: orange;
+    border-style: solid;
+    border-width: 1px;
+    border-collapse: collapse;
+    padding: 3px;
+    width: 160px;
+}
+
+.navlink:hover {
+    background-color: lightgreen;
+}
+
+.navtext {
+    color: gray;
+    width: 40px;
+}
+
+.navtext:hover {
+    color: darkgray;
+}
+
+p {
+    text-align: justify;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 400px;
+    text-align: center;
+}
