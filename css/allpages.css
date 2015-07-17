@@ -100,7 +100,6 @@ h2 {
 
 h3 {
     line-height: 45px;
-    margin-left: 30px;
 }
 
 #navigationbar {
@@ -116,7 +115,7 @@ h3 {
 .navpage {
   text-align: left;
   line-height: 22px;
-  margin-left: 35px;
+  margin-left: 40px;
 }
 
 a {
@@ -126,4 +125,8 @@ a {
 
 a:hover {
   color: purple;
+}
+
+#borderpoints {
+  border-radius: 3px;
 }
